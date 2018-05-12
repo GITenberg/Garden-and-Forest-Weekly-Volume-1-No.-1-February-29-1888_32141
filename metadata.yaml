@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '35684'
     url: http://www.gutenberg.org/2009/agents/35684
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32141#Garden-and-Forest-Weekly-Volume-1-No.-1-February-29-1888
 gutenberg_bookshelf: Garden and Forest
 gutenberg_issued: '2010-04-26'
 gutenberg_type: Text
