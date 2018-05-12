@@ -1,0 +1,35 @@
+_repo: Garden-and-Forest-Weekly-Volume-1-No.-1-February-29-1888_32141
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editor:
+    agent_name: Sargent, Charles Sprague
+    alias: Sargent, C. S. (Charles Sprague)
+    birthdate: 1841
+    deathdate: 1927
+    gutenberg_agent_id: '35684'
+    url: http://www.gutenberg.org/2009/agents/35684
+description: ''
+gutenberg_bookshelf: Garden and Forest
+gutenberg_issued: '2010-04-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32141'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'SB'
+- !lcsh 'Forests and forestry -- Periodicals'
+- !lcsh 'Gardening -- Periodicals'
+- !lcsh 'Plants -- Periodicals'
+title: Garden and Forest Weekly, Volume 1 No. 1, February 29, 1888
+url: http://www.gutenberg.org/ebooks/32141
